@@ -1,8 +1,8 @@
 # final
-this is a project you can through it book an appointment to a lawyer.
-and lawyers can manage the cases of the office
-it is a simple OOP php App 
-This project was generated with php version 7.
+-this is a project you can through it book an appointment to a lawyer.
+-and lawyers can manage the cases of the office
+-it is a simple OOP php App 
+-This project was generated with php version 7.
 
 Development server
 
